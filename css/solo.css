@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap');
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
@@ -33,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: #111;
   text-rendering: optimizeLegibility;
-  font-family: 'Open Sans', serif;
+  font-family: 'Prompt', serif;
   line-height: 1.2
 }
 
@@ -265,5 +266,4 @@ pre > code {
 
 .sharing-buttons {
 	width: 100%;
-}
 }
